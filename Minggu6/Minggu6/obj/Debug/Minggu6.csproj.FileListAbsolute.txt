@@ -1,0 +1,10 @@
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\bin\Debug\Minggu6.exe.config
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\bin\Debug\Minggu6.exe
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\bin\Debug\Minggu6.pdb
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.csproj.AssemblyReference.cache
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.frmUtama.resources
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.Properties.Resources.resources
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.csproj.GenerateResource.cache
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.csproj.CoreCompileInputs.cache
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.exe
+W:\221116956\DESKTOP APPLICATION PROGRAMMING\Minggu6\Minggu6\obj\Debug\Minggu6.pdb
