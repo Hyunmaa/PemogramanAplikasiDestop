@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Mahasiswa" msprop:Generator_TableClassName="MahasiswaDataTable" msprop:Generator_TableVarName="tableMahasiswa" msprop:Generator_TablePropName="Mahasiswa" msprop:Generator_RowDeletingName="MahasiswaRowDeleting" msprop:Generator_RowChangingName="MahasiswaRowChanging" msprop:Generator_RowEvHandlerName="MahasiswaRowChangeEventHandler" msprop:Generator_RowDeletedName="MahasiswaRowDeleted" msprop:Generator_UserTableName="Mahasiswa" msprop:Generator_RowChangedName="MahasiswaRowChanged" msprop:Generator_RowEvArgName="MahasiswaRowChangeEvent" msprop:Generator_RowClassName="MahasiswaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nrp" msprop:Generator_ColumnVarNameInTable="columnnrp" msprop:Generator_ColumnPropNameInRow="nrp" msprop:Generator_ColumnPropNameInTable="nrpColumn" msprop:Generator_UserColumnName="nrp" type="xs:string" minOccurs="0" />
+              <xs:element name="nama" msprop:Generator_ColumnVarNameInTable="columnnama" msprop:Generator_ColumnPropNameInRow="nama" msprop:Generator_ColumnPropNameInTable="namaColumn" msprop:Generator_UserColumnName="nama" type="xs:string" minOccurs="0" />
+              <xs:element name="alamat" msprop:Generator_ColumnVarNameInTable="columnalamat" msprop:Generator_ColumnPropNameInRow="alamat" msprop:Generator_ColumnPropNameInTable="alamatColumn" msprop:Generator_UserColumnName="alamat" type="xs:string" minOccurs="0" />
+              <xs:element name="uangjajan" msprop:Generator_ColumnVarNameInTable="columnuangjajan" msprop:Generator_ColumnPropNameInRow="uangjajan" msprop:Generator_ColumnPropNameInTable="uangjajanColumn" msprop:Generator_UserColumnName="uangjajan" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
